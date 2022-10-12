@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tirar dado</string>
+    <string name="roll_label">Tirar</string>
+</resources>
